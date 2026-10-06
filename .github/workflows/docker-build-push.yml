@@ -1,4 +1,4 @@
-name: Build and Push Django Docker Image
+name: Build and Push Django Docker Image - BXSC-682
 
 on:
   workflow_dispatch:
